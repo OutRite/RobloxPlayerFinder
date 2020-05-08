@@ -15,6 +15,7 @@ player_name = input("Enter player name: ")
 # now for our first API call, to users.roblox.com !
 
 # we need to patch some variables since the json response isn't too python friendly
+# thank you roblox very cool
 
 null = 0
 true = True
