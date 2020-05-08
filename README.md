@@ -15,7 +15,6 @@ Yeh. It's _pretty_ cool, eh?
 Mostly as a challenge for using APIs and Python.
 ## I don't see their server?????
 You should probably use this with something like RoSearcher, since it isn't all that useful by itself.    
-(P.S. Server ID _will_ be added, but it might not be useful to general users. Depends on if you know how to use it.)
 ## It isn't correct?
 They just haven't gotten a badge in the game they are currently playing yet. Give it a bit.
 ## Is this a virus????????
